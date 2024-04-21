@@ -17,7 +17,7 @@ var user = [
     {
         profilePic:'Screenshot_2022_0225_071546.jpg',
         iconsColor:'grey',
-        massage:"your the best addu where "
+        massage:"your the best  "
     },
     {
         profilePic:'Screenshot_2022_0314_111934.jpg',
